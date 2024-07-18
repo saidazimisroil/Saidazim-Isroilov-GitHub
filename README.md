@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saidazimisroil
+- 👋 Hi, I’m Saidazim Isroilov
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on web development 
