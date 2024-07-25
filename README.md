@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on web development 
 - 📫 You can reach me with telegram: https://t.me/saidazim_si
+- ✨ Check my Linkedin profile: https://www.linkedin.com/in/saidazim-isroilov-51362b255/
 - ⚡ Fun fact: I'm open to work
 
 <!---
